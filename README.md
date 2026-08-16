@@ -1,4 +1,4 @@
-<!-- GitHub Profile README — Miguel Lima (@miguelima2326) -->
+<!-- GitHub Profile README — Miguel Lima (@miguellima2326) -->
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                      BANNER PRINCIPAL                            ║ -->
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=miguelima2326&style=for-the-badge&color=0d1117&labelColor=58a6ff25&label=%E2%97%88+SYSTEM+ACCESS" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=miguellima2326&style=for-the-badge&color=0d1117&labelColor=58a6ff25&label=%E2%97%88+SYSTEM+ACCESS" alt="Views"/>
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-%F0%9F%9F%A2%20ONLINE-3FB950?style=for-the-badge&labelColor=0d1117" alt="Online"/>
 &nbsp;
@@ -29,7 +29,7 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        SOBRE MIM                                ║ -->
+<!-- ║                        SOBRE MIM                                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -43,41 +43,41 @@
 <td width="50%" valign="top">
 <pre>
 ┌─[ IDENT ]──────────────────────────────────┐
-│                                             │
+│                                            │
 │  ◈ NOME      : Miguel Lima                 │
 │  ◈ CARGO     : Jr. Systems Support + Dev   │
 │  ◈ EMPRESA   : Woli Tecnologia             │
 │  ◈ LOCAL     : Araxá, MG — Brasil          │
 │  ◈ FACULDADE : Sistemas de Informação      │
-│                UNIARAXÁ · turno noturno     │
+│                UNIARAXÁ · turno noturno    │
 │  ◈ TEMPO     : +2.5 anos na Woli           │
 │  ◈ SERVER    : HPE ML110 Gen9              │
-│                woliaplicacoes · Ubuntu 24   │
-│  ◈ AI_CORE   : Ollama · qwen2.5 · GGUF     │
-│                                             │
-│  UPTIME ████████████████████░░░ 95%         │
-│                                             │
-└─────────────────────────────────────────────┘
+│                woliaplicacoes · Ubuntu 24  │
+│  ◈ AI_CORE   : Ollama · qwen3.6 · GGUF     │
+│                                            │
+│  UPTIME ████████████████████░░░ 95%        │
+│                                            │
+└────────────────────────────────────────────┘
 </pre>
 </td>
 <td width="50%" valign="top">
 <pre>
 ┌─[ DIRECTIVES ]─────────────────────────────┐
-│                                             │
-│  ★ Admin servidores Linux (bare metal)      │
-│  ★ Orquestração de containers Docker        │
-│  ★ Pipelines CI/CD e automação DevOps       │
-│  ★ Desenvolvimento Node.js + Vue.js         │
-│  ★ IA local: Ollama, WoliChat, GGUF         │
-│  ★ WOLi Inventory — SaaS de Ativos TI       │
-│  ★ woli-guard — monitoramento de frota      │
-│  ★ Suporte N1 · VPN · Endpoint Security     │
-│                                             │
-│  [ IN PROGRESS ]                            │
+│                                            │
+│  ★ Admin servidores Linux (bare metal)     │
+│  ★ Orquestração de containers Docker       │
+│  ★ Pipelines CI/CD e automação DevOps      │
+│  ★ Desenvolvimento Node.js + Vue.js        │
+│  ★ IA local: Ollama, WoliChat, GGUF        │
+│  ★ WOLi Inventory — SaaS de Ativos TI      │
+│  ★ woli-guard — monitoramento de frota     │
+│  ★ Suporte N1 · VPN · Endpoint Security    │
+│                                            │
+│  [ IN PROGRESS ]                           │
 │  ◉ Azure Fundamentals (AZ-900)             │
 │  ◉ LPIC-1 Linux Professional               │
-│                                             │
-└─────────────────────────────────────────────┘
+│                                            │
+└────────────────────────────────────────────┘
 </pre>
 </td>
 </tr>
@@ -88,7 +88,7 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       TECH STACK                                ║ -->
+<!-- ║                       TECH STACK                                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -156,7 +156,7 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         PROJETOS                                ║ -->
+<!-- ║                         PROJETOS                                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -177,7 +177,7 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    OBJETIVOS (TERMINAL)                         ║ -->
+<!-- ║                    OBJETIVOS (TERMINAL)                          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -188,30 +188,30 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
-║               ◈ MISSION_CONTROL — CURRENT OBJECTIVES STATUS ◈                    ║
-║               root@woli-sys:~$ ./progress.sh --all --verbose                     ║
+║               ◈ MISSION_CONTROL — CURRENT OBJECTIVES STATUS ◈                     ║
+║               root@woli-sys:~$ ./progress.sh --all --verbose                      ║
 ╠═══════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                   ║
-║  [1] DevOps & Cloud — Microsoft Azure (AZ-900)                                   ║
-║      [████████░░░░░░░░░░░░░░░░░░░░░░] 40%  ▸ Estudando · Meta: Q4/2025          ║
+║  [1] DevOps & Cloud — Microsoft Azure (AZ-900)                                    ║
+║      [████████░░░░░░░░░░░░░░░░░░░░░░] 40%  ▸ Estudando · Meta: 2027               ║
 ║                                                                                   ║
-║  [2] WOLi Inventory SaaS — Em produção (v1.x)                                   ║
-║      [████████████████████████░░░░░░] 80%  ▸ Integração NF-e · API Dell         ║
+║  [2] WOLi Inventory  — Em produção                                                ║
+║      [████████████████████████░░░░░░] 80%  ▸ Integração NF-e · API Dell           ║
 ║                                                                                   ║
-║  [3] Stack IA Local — Ollama + WoliChat + RAG                                    ║
-║      [████████████████░░░░░░░░░░░░░░] 60%  ▸ API REST · Multi-model · MCP       ║
+║  [3] Stack IA Local — Ollama + WoliChat + RAG                                     ║
+║      [████████████████░░░░░░░░░░░░░░] 60%  ▸ API REST · Multi-model · MCP         ║
 ║                                                                                   ║
-║  [4] woli-guard — Fleet Monitoring Agent (Go)                                    ║
-║      [████████████░░░░░░░░░░░░░░░░░░] 50%  ▸ Dashboard · Integração Inventory   ║
+║  [4] woli-guard — Fleet Monitoring Agent (Go)                                     ║
+║      [██████████████████████████░░░░] 85%  ▸ Dashboard · Integração Inventory     ║
 ║                                                                                   ║
-║  [5] Graduação — Sistemas de Informação (UNIARAXÁ)                               ║
-║      [████████████████░░░░░░░░░░░░░░] 60%  ▸ Noturno · Previsão: 2026           ║
+║  [5] Graduação — Sistemas de Informação (UNIARAXÁ)                                ║
+║      [███████████████░░░░░░░░░░░░░░░] 50%  ▸ Noturno · Previsão: 2028             ║
 ║                                                                                   ║
-║  [6] Certificação LPIC-1 Linux Professional                                      ║
-║      [█████░░░░░░░░░░░░░░░░░░░░░░░░░] 20%  ▸ Iniciando módulos · Meta: 2025     ║
+║  [6] Certificação LPIC-1 Linux Professional                                       ║
+║      [████████████░░░░░░░░░░░░░░░░░░] 40%  ▸ Iniciando módulos · Meta: 2026       ║
 ║                                                                                   ║
 ╠═══════════════════════════════════════════════════════════════════════════════════╣
-║  UPTIME: 2.5 anos @ Woli Tecnologia  │  MODE: FULL STACK + AI  │  🟢 NOMINAL    ║
+║  UPTIME: 2.9 anos @ Woli Tecnologia  │  MODE: FULL STACK + AI  │  🟢 NOMINAL      ║
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -220,30 +220,30 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      GITHUB STATS                               ║ -->
+<!-- ║                      GITHUB STATS                                ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=9999&color=BC8CFF&center=true&vCenter=true&width=460&height=30&lines=%3E%5F+github+--analytics+--user+miguelima2326" alt="Stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=9999&color=BC8CFF&center=true&vCenter=true&width=460&height=30&lines=%3E%5F+github+--analytics+--user+miguellima2326" alt="Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=miguelima2326&show_icons=true&bg_color=0d1117&border_color=58a6ff30&icon_color=58a6ff&title_color=bc8cff&text_color=cdd9e5&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=miguellima2326&show_icons=true&bg_color=0d1117&border_color=58a6ff30&icon_color=58a6ff&title_color=bc8cff&text_color=cdd9e5&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" height="175" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelima2326&layout=compact&bg_color=0d1117&border_color=58a6ff30&title_color=bc8cff&text_color=cdd9e5&langs_count=8&hide_border=false" height="175" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellima2326&layout=compact&bg_color=0d1117&border_color=58a6ff30&title_color=bc8cff&text_color=cdd9e5&langs_count=8&hide_border=false" height="175" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=miguelima2326&background=0d1117&ring=58a6ff&fire=ff79c6&currStreakLabel=bc8cff&sideLabels=bc8cff&currStreakNum=58a6ff&sideNums=cdd9e5&dates=8b949e&border=58a6ff30&stroke=58a6ff15" alt="Streak" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=miguellima2326&background=0d1117&ring=58a6ff&fire=ff79c6&currStreakLabel=bc8cff&sideLabels=bc8cff&currStreakNum=58a6ff&sideNums=cdd9e5&dates=8b949e&border=58a6ff30&stroke=58a6ff15" alt="Streak" width="500"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelima2326&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ff79c6&area=true&area_color=58a6ff15&hide_border=false&border_color=58a6ff30&custom_title=%E2%97%88%20Contribution%20Activity%20Graph%20%E2%97%88&title_color=bc8cff" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguellima2326&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ff79c6&area=true&area_color=58a6ff15&hide_border=false&border_color=58a6ff30&custom_title=%E2%97%88%20Contribution%20Activity%20Graph%20%E2%97%88&title_color=bc8cff" width="100%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=miguelima2326&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=7&row=1" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=miguellima2326&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=7&row=1" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -263,11 +263,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/miguelima2326/miguelima2326/output/github-contribution-grid-snake-dark.svg"/>
+    srcset="https://raw.githubusercontent.com/miguellima2326/miguellima2326/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/miguelima2326/miguelima2326/output/github-contribution-grid-snake.svg"/>
+    srcset="https://raw.githubusercontent.com/miguellima2326/miguellima2326/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake Contribution Graph"
-    src="https://raw.githubusercontent.com/miguelima2326/miguelima2326/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/miguellima2326/miguellima2326/output/github-contribution-grid-snake-dark.svg"
     width="100%"/>
 </picture>
 
@@ -277,7 +277,7 @@
 <summary><kbd>⚙️ Configurar Snake Animation</kbd></summary>
 <br/>
 
-Crie o arquivo `.github/workflows/snake.yml` no repositório de perfil (`miguelima2326/miguelima2326` — repositório com mesmo nome do seu username):
+Crie o arquivo `.github/workflows/snake.yml` no repositório de perfil (`miguellima2326/miguellima2326` — repositório com mesmo nome do seu username):
 
 ```yaml
 name: Generate Snake Animation
@@ -336,7 +336,7 @@ jobs:
   <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://github.com/miguelima2326">
+<a href="https://github.com/miguellima2326">
   <img src="https://img.shields.io/badge/GitHub-CDD9E5?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub"/>
 </a>
 &nbsp;
@@ -373,10 +373,10 @@ jobs:
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                     ║
-║    "Any sufficiently advanced technology is indistinguishable from magic."         ║
+║    "Any sufficiently advanced technology is indistinguishable from magic."          ║
 ║                                                             — Arthur C. Clarke      ║
 ║                                                                                     ║
-║                ◈  Built with ♥ and ⚡ by Miguel Lima — Araxá, BR  ◈              ║
+║                ◈  Built with ♥ and ⚡ by Miguel Lima — Araxá, BR  ◈                  ║
 ║                        root@woli-sys:~$ shutdown -h now                             ║
 ║                           [ CONNECTION TERMINATED ]                                 ║
 ║                                                                                     ║
