@@ -597,15 +597,15 @@ Ela será usada automaticamente pelo `<picture>` acima.
   <img src="https://img.shields.io/badge/GitHub-migueldevelop-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a" />
 </a>
 
-<a href="https://www.linkedin.com/in/miguel-lima-845666252/">
+<a href="SEU_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-Miguel_Lima-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a" />
 </a>
 
-<a href="mailto:miguellima23260923@gmail.com">
+<a href="mailto:SEU_EMAIL">
   <img src="https://img.shields.io/badge/Email-CONTACT-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a" />
 </a>
 
-<a href="https://wa.me/5511957998690">
+<a href="https://wa.me/SEUNUMERO">
   <img src="https://img.shields.io/badge/WhatsApp-CONTACT-00FF41?style=for-the-badge&logo=whatsapp&logoColor=00FF41&labelColor=0d0d1a" />
 </a>
 
