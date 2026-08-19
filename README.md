@@ -51,8 +51,6 @@
 │  ◈ FACULDADE : Sistemas de Informação        │
 │                UNIARAXÁ · turno noturno      │
 │  ◈ TEMPO     : +2.9 anos na Woli             │
-│  ◈ SERVER    : HPE ML110 Gen9                │
-│                woliaplicacoes · Ubuntu 24    │
 │  ◈ AI_CORE   : Ollama · qwen3.6 · GGUF       │
 │                                              │
 │  UPTIME ████████████████████░░░ 95%          │
@@ -145,8 +143,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Qwen3.6-Local%20GGUF-BC8CFF?style=for-the-badge&logo=meta&logoColor=0d1117&labelColor=0d1117" alt="Qwen"/>
 &nbsp;
-<img src="https://img.shields.io/badge/HPE_ML110-Gen9%20Server-FF79C6?style=for-the-badge&logo=hewlettpackard&logoColor=0d1117&labelColor=0d1117" alt="HPE"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Penpot-Self--Hosted-3FB950?style=for-the-badge&logo=penpot&logoColor=0d1117&labelColor=0d1117" alt="Penpot"/>
 
 </div>
@@ -168,7 +164,7 @@
 | &nbsp; | Projeto | Stack | Descrição |
 |:------:|:--------|:-----:|:----------|
 | 🗄️ | **WOLi Inventory** | ![Node.js](https://img.shields.io/badge/Node-58A6FF?style=flat-square&logo=nodedotjs&logoColor=0d1117) ![Vue](https://img.shields.io/badge/Vue-3FB950?style=flat-square&logo=vuedotjs&logoColor=0d1117) ![MySQL](https://img.shields.io/badge/MySQL-BC8CFF?style=flat-square&logo=mysql&logoColor=0d1117) ![Docker](https://img.shields.io/badge/Docker-58A6FF?style=flat-square&logo=docker&logoColor=0d1117) | SaaS B2B de gestão de ativos TI — equipamentos, garantias, reservas de sala e cadastro via NF-e |
-| 🤖 | **WoliChat** | ![Ollama](https://img.shields.io/badge/Ollama-BC8CFF?style=flat-square&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-3FB950?style=flat-square&logo=nginx&logoColor=0d1117) ![Node.js](https://img.shields.io/badge/Node-58A6FF?style=flat-square&logo=nodedotjs&logoColor=0d1117) | Chat 100% local com IA · qwen3.6 no HPE ML110 Gen9 · tool-calling · RAG · MCP |
+| 🤖 | **WoliChat** | ![Ollama](https://img.shields.io/badge/Ollama-BC8CFF?style=flat-square&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-3FB950?style=flat-square&logo=nginx&logoColor=0d1117) ![Node.js](https://img.shields.io/badge/Node-58A6FF?style=flat-square&logo=nodedotjs&logoColor=0d1117) | Chat 100% local com IA · qwen3.6 · tool-calling · RAG · MCP |
 | 🛡️ | **woli-guard** | ![Go](https://img.shields.io/badge/Go-58A6FF?style=flat-square&logo=go&logoColor=0d1117) ![Docker](https://img.shields.io/badge/Docker-BC8CFF?style=flat-square&logo=docker&logoColor=white) | Agente de monitoramento de frota — CPU, RAM, GPU, storage e IP · dashboard centralizado |
 | 🧰 | **woli.toolkit** | ![.NET](https://img.shields.io/badge/.NET-BC8CFF?style=flat-square&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-58A6FF?style=flat-square&logo=windows&logoColor=0d1117) | App de pós-instalação para onboarding de máquinas Windows · deploy via share de rede |
 
