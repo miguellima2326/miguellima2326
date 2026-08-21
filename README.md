@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em Araxá (MG). Atuo na ponte entre suporte técnico e desenvolvimento: administro servidores Linux, orquestro containers Docker, automatizo pipelines CI/CD e desenvolvo soluções internas full stack (Node.js + Vue.js). Também integro IA local (Ollama/Qwen3) em produtos da empresa.
+Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em Araxá (MG). Atuo na ponte entre suporte técnico e desenvolvimento: administro servidores Linux, orquestro containers Docker, automatizo pipelines CI/CD e desenvolvo soluções internas full stack (Node.js + Vue.js), incluindo construção e consumo de APIs e modelagem de banco de dados. Também integro IA local (Ollama/Qwen3) em produtos da empresa.
 
 - 🎓 Sistemas de Informação — UNIARAXÁ (turno noturno)
 - 🏢 +2.9 anos na Woli Tecnologia
@@ -33,6 +33,8 @@ Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em A
 - C#
 - Pipelines CI/CD (aprofundamento)
 - Cibersegurança
+- APIs
+- Banco de dados
 - Linux (LPIC-1)
 
 <br/>
