@@ -35,6 +35,9 @@ Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em A
 - Cibersegurança
 - APIs
 - Banco de dados
+- LLMs e RAG
+- Prompt Injection e Context Injection
+- Fine-tuning
 - Linux (LPIC-1)
 
 <br/>
