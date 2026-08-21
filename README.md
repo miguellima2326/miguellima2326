@@ -73,8 +73,8 @@ Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em A
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=miguellima2326&show_icons=true&bg_color=0d1117&border_color=1f6feb30&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellima2326&layout=compact&bg_color=0d1117&border_color=1f6feb30&title_color=58a6ff&text_color=c9d1d9&hide_border=false" height="165" alt="Top Languages"/>
+<img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 
 </div>
 
