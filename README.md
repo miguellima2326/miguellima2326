@@ -15,22 +15,25 @@
 
 ## Sobre mim
 
-Sou **Jr. Systems Support & Developer** na **Woli Tecnologia**, em Araxá (MG), com foco em administração de servidores Linux, containers Docker, automação CI/CD e desenvolvimento full stack (Node.js + Vue.js). Também integro IA local (Ollama/Qwen3) em produtos internos.
+Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em Araxá (MG). Atuo na ponte entre suporte técnico e desenvolvimento: administro servidores Linux, orquestro containers Docker, automatizo pipelines CI/CD e desenvolvo soluções internas full stack (Node.js + Vue.js). Também integro IA local (Ollama/Qwen3) em produtos da empresa.
 
 - 🎓 Sistemas de Informação — UNIARAXÁ (turno noturno)
 - 🏢 +2.9 anos na Woli Tecnologia
 - 📍 Araxá, MG — Brasil
 
 **Atualmente:**
-- Administração de servidores Linux bare metal e orquestração Docker
+- Suporte de sistemas e administração de servidores Linux bare metal
+- Orquestração de containers Docker
 - Pipelines CI/CD e automação DevOps
 - IA local: Ollama, Qwen3, GGUF, RAG e tool-calling
 - WOLi Inventory — SaaS de gestão de ativos de TI
 - woli-guard — monitoramento de frota
 
 **Estudando:**
-- Microsoft Azure Fundamentals (AZ-900)
-- LPIC-1 Linux Professional
+- C#
+- Pipelines CI/CD (aprofundamento)
+- Cibersegurança
+- Linux (LPIC-1)
 
 <br/>
 
@@ -76,6 +79,7 @@ Sou **Jr. Systems Support & Developer** na **Woli Tecnologia**, em Araxá (MG), 
 
 <div align="center">
 
+<a href="https://miguel-kappa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/miguel-lima-845666252"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:miguellima23260923@gmail.com"><img src="https://img.shields.io/badge/E--mail-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.freecodecamp.org/miguellimadealmeida"><img src="https://img.shields.io/badge/freeCodeCamp-1f6feb?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/></a>
