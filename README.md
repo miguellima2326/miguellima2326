@@ -53,6 +53,7 @@ Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em A
 <img src="https://img.shields.io/badge/Ollama-Local%20Inference-1f6feb?style=flat-square&labelColor=0d1117" alt="Ollama"/>
 <img src="https://img.shields.io/badge/Qwen3-Local%20GGUF-1f6feb?style=flat-square&labelColor=0d1117" alt="Qwen3"/>
 <img src="https://img.shields.io/badge/Penpot-Self--Hosted-1f6feb?style=flat-square&labelColor=0d1117" alt="Penpot"/>
+<a href="https://www.npmjs.com/package/@migueltoolkitdev/toolkit-cli"><img src="https://img.shields.io/npm/v/@migueltoolkitdev/toolkit-cli?style=flat-square&color=1f6feb&labelColor=0d1117&label=toolkit-cli" alt="npm toolkit-cli"/></a>
 
 </div>
 
@@ -66,6 +67,7 @@ Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em A
 | **WoliChat** | Ollama · Node.js · Nginx | Chat 100% local com IA (Qwen3) — tool-calling, RAG e MCP |
 | **woli-guard** | Go · Docker | Agente de monitoramento de frota — CPU, RAM, GPU, storage e IP, com dashboard centralizado |
 | **woli.toolkit** | .NET · WPF | Ferramenta de pós-instalação para onboarding de máquinas Windows |
+| **[Toolkit](https://apptoolkit.vercel.app)** | Next.js · Fastify · Prisma · CLI (Node/TS) | Catálogo aberto de apps/drivers pra Windows, Linux e macOS — gera scripts de instalação (winget/apt/dnf/pacman/flatpak/brew) e tem CLI própria publicada no npm |
 
 <br/>
 
