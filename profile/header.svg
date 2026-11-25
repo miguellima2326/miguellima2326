@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+  <defs>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#00ff41" opacity="0.025"/>
+    </pattern>
+    <linearGradient id="sweep" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00ff41" stop-opacity="0.07"/>
+    </linearGradient>
+    <clipPath id="win"><rect x="10" y="10" width="840" height="280" rx="12"/></clipPath>
+  </defs>
+
+  <style>
+    .bg    { fill: #050805; }
+    .bar   { fill: #0b120b; }
+    .p     { fill: #00ff41; font-size: 16px; font-weight: 700; }
+    .cmd   { fill: #d6ffe0; font-size: 16px; }
+    .name  { fill: #00ff41; font-size: 40px; font-weight: 800; letter-spacing: 1px; }
+    .sub   { fill: #7d8f80; font-size: 15px; }
+    .tag   { fill: #00ff41; font-size: 14px; }
+    .tagbx { fill: none; stroke: #00ff41; stroke-opacity: .35; }
+    .dim   { fill: #4b5a4e; font-size: 13px; }
+
+    .cover { fill: #050805; }
+    .t1 { animation: type1 0.9s steps(8)  0.4s forwards; }
+    .t2 { animation: type2 1.0s steps(14) 2.6s forwards; }
+    .f1 { opacity: 0; animation: in .5s ease-out 1.5s forwards; }
+    .f2 { opacity: 0; animation: in .5s ease-out 1.9s forwards; }
+    .f3 { opacity: 0; animation: in .4s ease-out 3.8s forwards; }
+    .f4 { opacity: 0; animation: in .4s ease-out 4.0s forwards; }
+    .f5 { opacity: 0; animation: in .4s ease-out 4.2s forwards; }
+    .f6 { opacity: 0; animation: in .4s ease-out 4.4s forwards; }
+    .f7 { opacity: 0; animation: in .4s ease-out 4.6s forwards; }
+    .f8 { opacity: 0; animation: in .4s ease-out 4.8s forwards; }
+    .f9 { opacity: 0; animation: in .3s ease-out 5.3s forwards; }
+    .cur { opacity: 0; animation: in .1s 5.3s forwards, blink 1s steps(1) 5.4s infinite; }
+    .sw  { animation: sweep 6s linear infinite; }
+
+    @keyframes type1 { to { transform: translateX(110px); } }
+    @keyframes type2 { to { transform: translateX(150px); } }
+    @keyframes in    { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes sweep { from { transform: translateY(-80px); } to { transform: translateY(300px); } }
+  </style>
+
+  <g clip-path="url(#win)">
+    <rect class="bg" x="10" y="10" width="840" height="280"/>
+    <rect class="bar" x="10" y="10" width="840" height="34"/>
+    <circle cx="34" cy="27" r="6" fill="#1d2b1f"/>
+    <circle cx="54" cy="27" r="6" fill="#1d2b1f"/>
+    <circle cx="74" cy="27" r="6" fill="#00ff41"/>
+    <text class="dim" x="430" y="32" text-anchor="middle">miguel@dev: ~</text>
+
+    <!-- $ whoami -->
+    <text x="40" y="82"><tspan class="p">❯</tspan><tspan class="cmd" dx="10">whoami</tspan></text>
+    <rect class="cover t1" x="58" y="64" width="110" height="24"/>
+
+    <text class="name f1" x="40" y="132" filter="url(#glow)">Miguel Lima</text>
+    <text class="sub f2"  x="40" y="160">Support Analyst &amp; Developer @ Woli · Full Stack · Local AI</text>
+
+    <!-- $ cat stack.txt -->
+    <text x="40" y="204"><tspan class="p">❯</tspan><tspan class="cmd" dx="10">cat stack.txt</tspan></text>
+    <rect class="cover t2" x="58" y="186" width="150" height="24"/>
+
+    <g class="f3"><rect class="tagbx" x="40"  y="222" width="70"  height="26" rx="5"/><text class="tag" x="75"  y="240" text-anchor="middle">linux</text></g>
+    <g class="f4"><rect class="tagbx" x="120" y="222" width="80"  height="26" rx="5"/><text class="tag" x="160" y="240" text-anchor="middle">docker</text></g>
+    <g class="f5"><rect class="tagbx" x="210" y="222" width="90"  height="26" rx="5"/><text class="tag" x="255" y="240" text-anchor="middle">node+vue</text></g>
+    <g class="f6"><rect class="tagbx" x="310" y="222" width="50"  height="26" rx="5"/><text class="tag" x="335" y="240" text-anchor="middle">c#</text></g>
+    <g class="f7"><rect class="tagbx" x="370" y="222" width="80"  height="26" rx="5"/><text class="tag" x="410" y="240" text-anchor="middle">ci/cd</text></g>
+    <g class="f8"><rect class="tagbx" x="460" y="222" width="110" height="26" rx="5"/><text class="tag" x="515" y="240" text-anchor="middle">ollama·rag</text></g>
+
+    <text class="f9" x="40" y="276"><tspan class="p">❯</tspan></text>
+    <rect class="cur" x="60" y="262" width="10" height="18" fill="#00ff41"/>
+
+    <!-- CRT -->
+    <rect x="10" y="10" width="840" height="280" fill="url(#scan)"/>
+    <rect class="sw" x="10" y="0" width="840" height="80" fill="url(#sweep)"/>
+  </g>
+  <rect x="10.5" y="10.5" width="839" height="279" rx="12" fill="none" stroke="#00ff41" stroke-opacity=".3"/>
+</svg>

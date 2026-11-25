@@ -27,8 +27,8 @@ jobs:
             fi
             rm -f "$tmp"
           }
-          fetch_card "https://github-readme-stats.vercel.app/api?username=miguellima2326&show_icons=true&bg_color=0d1117&border_color=1f6feb30&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&hide_border=false" "profile/stats.svg"
-          fetch_card "https://github-readme-stats.vercel.app/api/top-langs/?username=miguellima2326&layout=compact&bg_color=0d1117&border_color=1f6feb30&title_color=58a6ff&text_color=c9d1d9&hide_border=false" "profile/top-langs.svg"
+          fetch_card "https://github-readme-stats.vercel.app/api?username=miguellima2326&show_icons=true&hide_rank=true&bg_color=0d1117&border_color=00ff4140&icon_color=00ff41&title_color=00ff41&text_color=b8d4be&hide_border=false" "profile/stats.svg"
+          fetch_card "https://github-readme-stats.vercel.app/api/top-langs/?username=miguellima2326&layout=compact&bg_color=0d1117&border_color=00ff4140&title_color=00ff41&text_color=b8d4be&hide_border=false" "profile/top-langs.svg"
 
       - name: Commit cards
         run: |

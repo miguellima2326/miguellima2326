@@ -1,99 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Miguel%20Lima&fontSize=48&fontColor=58a6ff&fontAlignY=40&desc=Systems%20Support%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Integration&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="./profile/header.svg" width="100%" alt="Miguel Lima — Support Analyst & Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=58A6FF&center=true&vCenter=true&width=520&height=30&lines=Linux+%7C+Docker+%7C+CI%2FCD;Node.js+%2B+Vue.js;Local+AI+with+Ollama+%26+Qwen3" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2500&color=00FF41&center=true&vCenter=true&width=560&height=28&lines=%3E+resolvendo+problema+de+verdade%2C+em+produ%C3%A7%C3%A3o;%3E+suporte+%2B+dev+%3D+entendo+o+sistema+de+ponta+a+ponta;%3E+rodando+IA+local+com+Ollama+%2B+Qwen3" alt="typing"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=miguellima2326&style=flat-square&color=1f6feb&label=Profile+Views" alt="Views"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-1f6feb?style=flat-square" alt="Status"/>
+<a href="https://miguel-kappa.vercel.app"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41" alt="Portfolio"/></a> <a href="https://linkedin.com/in/miguel-lima-845666252"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/></a> <a href="mailto:miguellima23260923@gmail.com"><img src="https://img.shields.io/badge/e--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email"/></a> <img src="https://komarev.com/ghpvc/?username=miguellima2326&style=for-the-badge&color=00ff41&label=views" alt="Views"/>
 
 </div>
 
 <br/>
 
-## Sobre mim
-
-Sou **Analista de Suporte de Sistemas & Developer** na **Woli Tecnologia**, em Araxá (MG). Atuo na ponte entre suporte técnico e desenvolvimento: administro servidores Linux, orquestro containers Docker, automatizo pipelines CI/CD e desenvolvo soluções internas full stack (Node.js + Vue.js), incluindo construção e consumo de APIs e modelagem de banco de dados. Também integro IA local (Ollama/Qwen3) em produtos da empresa.
-
-- 🎓 Sistemas de Informação — UNIARAXÁ (turno noturno)
-- 🏢 +2.9 anos na Woli Tecnologia
-- 📍 Araxá, MG — Brasil
-
-**Atualmente:**
-- Suporte de sistemas e administração de servidores Linux bare metal
-- Orquestração de containers Docker
-- Pipelines CI/CD e automação DevOps
-- IA local: Ollama, Qwen3, GGUF, RAG e tool-calling
-- WOLi Inventory — SaaS de gestão de ativos de TI
-- woli-guard — monitoramento de frota
-
-**Estudando:**
-- C#
-- Pipelines CI/CD (aprofundamento)
-- Cibersegurança
-- APIs
-- Banco de dados
-- LLMs e RAG
-- Prompt Injection e Context Injection
-- Fine-tuning
-- Linux (LPIC-1)
+```yaml
+whoami:
+  role:     Support Analyst & Developer @ Woli Tecnologia   # 3 anos
+  where:    Araxá, MG 🇧🇷
+  degree:   Sistemas de Informação — UNIARAXÁ
+  do:       [servidores Linux, Docker, CI/CD, APIs, full stack Node + Vue, IA local]
+  learning: [C#, cibersegurança, LLMs & RAG, fine-tuning, LPIC-1]
+```
 
 <br/>
 
-## Stack
+### `~/stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,bash,go,html,css,nodejs,express,vue,vite,tailwind,linux,docker,git,github,githubactions,mysql,vscode&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,githubactions,nodejs,ts,vue,nextjs,tailwind,cs,dotnet,go,python,mysql&theme=dark&perline=15" alt="stack"/>
+
+</div>
+
+<br/>
+
+### `~/projects`
+
+| | projeto | stack | o que faz |
+|:-:|---|---|---|
+| `01` | **WOLi Inventory** | Node · Vue · MySQL · Docker | SaaS B2B de gestão de ativos de TI — equipamentos, garantias, salas, NF-e |
+| `02` | **WoliChat** | Ollama · Node · Nginx | Chat 100% local com Qwen3 — tool-calling, RAG e MCP |
+| `03` | **woli-guard** | Go · Docker | Agente de monitoramento de frota (CPU, RAM, GPU, IP) + dashboard |
+| `04` | **[Toolkit](https://apptoolkit.vercel.app)** | Next · Fastify · Prisma | Catálogo de apps/drivers que gera scripts de instalação + [CLI no npm](https://www.npmjs.com/package/@migueltoolkitdev/toolkit-cli) |
+| `05` | **[EngCalc](https://github.com/miguellima2326/FACULDADE-EngCalc)** | TypeScript | Site de cálculos de engenharia |
+
+<br/>
+
+### `~/stats`
+
+<div align="center">
+
+<img src="./profile/stats.svg" height="160" alt="stats"/>
+<img src="./profile/top-langs.svg" height="160" alt="langs"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Ollama-Local%20Inference-1f6feb?style=flat-square&labelColor=0d1117" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Qwen3-Local%20GGUF-1f6feb?style=flat-square&labelColor=0d1117" alt="Qwen3"/>
-<img src="https://img.shields.io/badge/Penpot-Self--Hosted-1f6feb?style=flat-square&labelColor=0d1117" alt="Penpot"/>
-<a href="https://www.npmjs.com/package/@migueltoolkitdev/toolkit-cli"><img src="https://img.shields.io/npm/v/@migueltoolkitdev/toolkit-cli?style=flat-square&color=1f6feb&labelColor=0d1117&label=toolkit-cli" alt="npm toolkit-cli"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguellima2326/miguellima2326/output/snake-green-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/miguellima2326/miguellima2326/output/snake-green.svg" alt="snake"/>
+</picture>
 
 </div>
 
 <br/>
 
-## Projetos em destaque
-
-| Projeto | Stack | Descrição |
-|---|---|---|
-| **WOLi Inventory** | Node.js · Vue · MySQL · Docker | SaaS B2B de gestão de ativos de TI — equipamentos, garantias, reservas de sala e cadastro via NF-e |
-| **WoliChat** | Ollama · Node.js · Nginx | Chat 100% local com IA (Qwen3) — tool-calling, RAG e MCP |
-| **woli-guard** | Go · Docker | Agente de monitoramento de frota — CPU, RAM, GPU, storage e IP, com dashboard centralizado |
-| **woli.toolkit** | .NET · WPF | Ferramenta de pós-instalação para onboarding de máquinas Windows |
-| **[Toolkit](https://apptoolkit.vercel.app)** | Next.js · Fastify · Prisma · CLI (Node/TS) | Catálogo aberto de apps/drivers pra Windows, Linux e macOS — gera scripts de instalação (winget/apt/dnf/pacman/flatpak/brew) e tem CLI própria publicada no npm |
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
-<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-## Contato
-
-<div align="center">
-
-<a href="https://miguel-kappa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/miguel-lima-845666252"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:miguellima23260923@gmail.com"><img src="https://img.shields.io/badge/E--mail-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.freecodecamp.org/miguellimadealmeida"><img src="https://img.shields.io/badge/freeCodeCamp-1f6feb?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/></a>
-<a href="https://learn.microsoft.com/pt-br/users/miguellima-4477"><img src="https://img.shields.io/badge/Microsoft_Learn-1f6feb?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Learn"/></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="./profile/footer.svg" width="100%" alt=""/>
