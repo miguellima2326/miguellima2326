@@ -17,6 +17,7 @@ whoami:
   degree:   Sistemas de Informação — UNIARAXÁ
   do:       [servidores Linux, Docker, CI/CD, APIs, full stack Node + Vue, IA local]
   shipped:  160+ PRs mergeados em 6 meses (Bitbucket da empresa)
+  certs:    [Anthropic Academy ×7 — Claude API, Claude Code, AI Fluency, Microsoft Learn, freeCodeCamp C#]
   learning: [C#, cibersegurança, LLMs & RAG, fine-tuning, LPIC-1]
 ```
 
