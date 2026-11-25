@@ -16,6 +16,7 @@ whoami:
   where:    Araxá, MG 🇧🇷
   degree:   Sistemas de Informação — UNIARAXÁ
   do:       [servidores Linux, Docker, CI/CD, APIs, full stack Node + Vue, IA local]
+  shipped:  160+ PRs mergeados em 6 meses (Bitbucket da empresa)
   learning: [C#, cibersegurança, LLMs & RAG, fine-tuning, LPIC-1]
 ```
 
